@@ -1,6 +1,6 @@
 %%
-%-----------GENERADOR DE SEÑALES RGB----------
-%t2 J. Hernández B.
+%-----------GENERADOR DE SEÃ‘ALES RGB----------
+%t2 J. HernÃ¡ndez B.
 %program: converting digial image, to RGB SIGNALS
 
 clc
@@ -13,9 +13,9 @@ close all
 %% 
 [RGB]=imread('1.jpg'); % generar matriz de RGB de la imagen
 
-R=RGB(:,:,1); % capa Roja
-G=RGB(:,:,2); % capa Verde
-B=RGB(:,:,3); % capa Azul
+R=RGB(:,:,1); % capa Roja.
+G=RGB(:,:,2); % capa Verde.
+B=RGB(:,:,3); % capa Azul.
 
 
 
